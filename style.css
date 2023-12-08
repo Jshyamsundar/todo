@@ -52,10 +52,11 @@ input {
 button {
     border: none;
     outline: none;
-    padding: 15px 20px;
+    height: 40px;
+    width: 60px;
     color: white;
     background: #ff5945;
-    border-radius: 30px;
+    border-radius: 25px;
     cursor: pointer;
     font-size: 16px;
 
